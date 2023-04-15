@@ -1,5 +1,5 @@
 # grailed_sales_analysis
-The project's aim is to answer the question what categories (color,size,condition,designer) in racing jackets are selling the best on Grailed platform ?
+The project's aim is to answer the question on what categories (color,size,condition,designer) of racing jackets sell best on Grailed platform ?
 
 Grailed is platform for selling high fashion and designer clothing. Most popular in U.S.
 
